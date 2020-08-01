@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00de37d0c1668dea095b87bdd728dd9a",
+    "revision": "5dea2d8506136314aa841a79a6de58ec",
     "url": "/MTPSHacks/index.html"
   },
   {
-    "revision": "74a94703a95905ea4855",
+    "revision": "498fb67ae83e912d2b45",
     "url": "/MTPSHacks/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MTPSHacks/static/js/2.2faa3625.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74a94703a95905ea4855",
-    "url": "/MTPSHacks/static/js/main.d0062fc0.chunk.js"
+    "revision": "498fb67ae83e912d2b45",
+    "url": "/MTPSHacks/static/js/main.e4baf537.chunk.js"
   },
   {
     "revision": "279d5982dd326c38a378",
