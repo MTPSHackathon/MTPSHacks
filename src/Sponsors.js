@@ -22,11 +22,13 @@ const useStyles = makeStyles({
     display: "flex",
     flexDirection: "column",
     alignItems: "center",
-    background: "white",
-    color: "black",
-    height: "800",
+    color: "white",
+    height: "100%",
     paddingTop: "10%",
-    paddingBottom: "40%",
+    paddingBottom: "12%",
+    paddingLeft: "30px",
+    background: "linear-gradient(45deg, #FE6B8B 40%, #FF8E53 90%)",
+    height: "100vh",
   },
   heading: {
     textAlign: "center",
@@ -47,9 +49,9 @@ const useStyles = makeStyles({
     color: "black",
   },
   logo: {
-    width: "1000px",
     paddingTop: "10px",
     paddingBottom: "10px",
+    width: "80%",
   },
 });
 
@@ -72,18 +74,39 @@ function Sponsors() {
           </Typography>
         </Grid>
         <Grid item xs="12">
-          <Typography variant="body1">
+          <Typography variant="h6">
             We could do have this hackathon without the support of our sponsors!
             Thank you!
           </Typography>
         </Grid>
       </Grid>
-      <img src={JANJ} className={classes.logo} />
-      <img src={igniteStem} className={classes.logo} />
-      <img src={thinkKindness} className={classes.logo} />
-      <img src={adp} className={classes.logo} />
-      <img src={verizon} className={classes.logo} />
-      <img src={jj} className={classes.logo} />
+      <Grid
+        container
+        className={classes.grid}
+        alignItems="center"
+        direction="row"
+        justify="center"
+        wrap="wrap"
+      >
+        <Grid item xs={4}>
+          <img src={JANJ} className={classes.logo} />
+        </Grid>
+        <Grid item xs={4}>
+          <img src={igniteStem} className={classes.logo} />
+        </Grid>
+        <Grid item xs={4}>
+          <img src={thinkKindness} className={classes.logo} />
+        </Grid>
+        <Grid item xs={4}>
+          <img src={adp} className={classes.logo} />
+        </Grid>
+        <Grid item xs={4}>
+          <img src={verizon} className={classes.logo} />
+        </Grid>
+        <Grid item xs={4}>
+          <img src={jj} className={classes.logo} />
+        </Grid>
+      </Grid>
     </div>
   );
 }

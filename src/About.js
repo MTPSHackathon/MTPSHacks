@@ -32,45 +32,67 @@ const useStyles = makeStyles({
         top: '20px',
         left: '20px',
     },
-    menu: {
-        alignItems: 'center',
-        paddingLeft: "22%",
-        color: 'white',
-    },
     button: {
         color: 'white',
     },
     text: {
-        width: "500px",
+        width: "100%",
     }
 });
 
 function About() {
     const classes = useStyles();
     return (
-        <div className={classes.root}>
-            <IconButton to="/" component={RouterLink} className={classes.image}>
-                <img src={MTPSLogo} alt="Logo" justify="center" className={classes.image} />
-            </IconButton>
-            <Grid>
-                <Grid item xs="12" spacing="1">
-                    <Typography variant="h1" className={classes.heading}>
-                        About
-                    </Typography>
-                </Grid>
-                <Grid item xs="12" className={classes.text}>
-                    <Typography variant="body1">
-                        MTPSHacks provides Marlboro's middle school students time and space to collaborate with peers to creatively solve problems using computer programming skills.
-                        <br />
-                        <br />
-                        A hackathon is when teams of students work together toward creating a unique or innovative project using computer programming skills. Hackathons are known to increase coding knowledge and foster collaborative problem-solving skills as students build something useful to make the world a better place.
-                        <br />
-                        <br />
-                        Prior to school closures due to COVID-19, Marlboro Township Public Schools planned for an after-school hackathon for middle school students in collaboration with Junior Achievement of NJ. Rather than cancel because of COVID-19, the program was redesigned to take place virtually so students could engage in a creative, collaborative project with their peers under the guidance of teachers, high school student mentors, and industry professionals. Under Morgan Gross’ leadership, all stakeholders came together to revise the program to foster creativity and innovation at a time when students needed these unique learning experiences the most.
-                    </Typography>
-                </Grid>
-            </Grid>
-        </div>
+      <div className={classes.root}>
+        <IconButton to="/" component={RouterLink} className={classes.image}>
+          <img
+            src={MTPSLogo}
+            alt="Logo"
+            justify="center"
+            className={classes.image}
+          />
+        </IconButton>
+        <Grid
+          container
+          spacing={4}
+          className={classes.grid}
+          alignItems="stretch"
+          direction="row"
+          justify="center"
+        >
+          <Grid item xs={12} spacing="1">
+            <Typography variant="h1" className={classes.heading}>
+              About
+            </Typography>
+          </Grid>
+          <Grid item xs={8} className={classes.text}>
+            <Typography variant="h6">
+              MTPSHacks provides Marlboro's middle school students time and
+              space to collaborate with peers to creatively solve problems using
+              computer programming skills.
+              <br />
+              <br />
+              A hackathon is when teams of students work together toward
+              creating a unique or innovative project using computer programming
+              skills. Hackathons are known to increase coding knowledge and
+              foster collaborative problem-solving skills as students build
+              something useful to make the world a better place.
+              <br />
+              <br />
+              Prior to school closures due to COVID-19, Marlboro Township Public
+              Schools planned for an after-school hackathon for middle school
+              students in collaboration with Junior Achievement of NJ. Rather
+              than cancel because of COVID-19, the program was redesigned to
+              take place virtually so students could engage in a creative,
+              collaborative project with their peers under the guidance of
+              teachers, high school student mentors, and industry professionals.
+              Under Morgan Gross’ leadership, all stakeholders came together to
+              revise the program to foster creativity and innovation at a time
+              when students needed these unique learning experiences the most.
+            </Typography>
+          </Grid>
+        </Grid>
+      </div>
     );
 }
 
