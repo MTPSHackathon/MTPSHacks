@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.5f361e03.chunk.css",
-    "main.js": "/home/static/js/main.b5b44e1a.chunk.js",
-    "main.js.map": "/home/static/js/main.b5b44e1a.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.4087f25b.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.4087f25b.js.map",
-    "static/js/2.dc9ca55a.chunk.js": "/home/static/js/2.dc9ca55a.chunk.js",
-    "static/js/2.dc9ca55a.chunk.js.map": "/home/static/js/2.dc9ca55a.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.c62a2b77c409b19f7e69f066e78913a4.js": "/home/precache-manifest.c62a2b77c409b19f7e69f066e78913a4.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/home/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.dc9ca55a.chunk.js.LICENSE.txt": "/home/static/js/2.dc9ca55a.chunk.js.LICENSE.txt",
-    "static/media/MTPSLogo.png": "/home/static/media/MTPSLogo.d88a6bfe.png",
-    "static/media/adp.png": "/home/static/media/adp.b2fdb6b1.png",
-    "static/media/igniteSTEM.png": "/home/static/media/igniteSTEM.f53662b7.png",
-    "static/media/janj.png": "/home/static/media/janj.372cbac1.png",
-    "static/media/jj.png": "/home/static/media/jj.45046e73.png",
-    "static/media/logo.svg": "/home/static/media/logo.5d5d9eef.svg",
-    "static/media/thinkKindness.png": "/home/static/media/thinkKindness.5e18813c.png",
-    "static/media/verizon.png": "/home/static/media/verizon.24b0e818.png"
+    "main.css": "/MTPSHacks/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MTPSHacks/static/js/main.22ead012.chunk.js",
+    "main.js.map": "/MTPSHacks/static/js/main.22ead012.chunk.js.map",
+    "runtime-main.js": "/MTPSHacks/static/js/runtime-main.3f247e05.js",
+    "runtime-main.js.map": "/MTPSHacks/static/js/runtime-main.3f247e05.js.map",
+    "static/js/2.dc9ca55a.chunk.js": "/MTPSHacks/static/js/2.dc9ca55a.chunk.js",
+    "static/js/2.dc9ca55a.chunk.js.map": "/MTPSHacks/static/js/2.dc9ca55a.chunk.js.map",
+    "index.html": "/MTPSHacks/index.html",
+    "precache-manifest.742e1f7511a10288dcdf1bdceb24910d.js": "/MTPSHacks/precache-manifest.742e1f7511a10288dcdf1bdceb24910d.js",
+    "service-worker.js": "/MTPSHacks/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MTPSHacks/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dc9ca55a.chunk.js.LICENSE.txt": "/MTPSHacks/static/js/2.dc9ca55a.chunk.js.LICENSE.txt",
+    "static/media/MTPSLogo.png": "/MTPSHacks/static/media/MTPSLogo.d88a6bfe.png",
+    "static/media/adp.png": "/MTPSHacks/static/media/adp.b2fdb6b1.png",
+    "static/media/igniteSTEM.png": "/MTPSHacks/static/media/igniteSTEM.f53662b7.png",
+    "static/media/janj.png": "/MTPSHacks/static/media/janj.372cbac1.png",
+    "static/media/jj.png": "/MTPSHacks/static/media/jj.45046e73.png",
+    "static/media/logo.svg": "/MTPSHacks/static/media/logo.5d5d9eef.svg",
+    "static/media/thinkKindness.png": "/MTPSHacks/static/media/thinkKindness.5e18813c.png",
+    "static/media/verizon.png": "/MTPSHacks/static/media/verizon.24b0e818.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4087f25b.js",
+    "static/js/runtime-main.3f247e05.js",
     "static/js/2.dc9ca55a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b5b44e1a.chunk.js"
+    "static/js/main.22ead012.chunk.js"
   ]
 }
