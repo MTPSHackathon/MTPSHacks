@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MTPSHacks/static/css/main.5f361e03.chunk.css",
-    "main.js": "/MTPSHacks/static/js/main.77f73824.chunk.js",
-    "main.js.map": "/MTPSHacks/static/js/main.77f73824.chunk.js.map",
+    "main.js": "/MTPSHacks/static/js/main.18236c63.chunk.js",
+    "main.js.map": "/MTPSHacks/static/js/main.18236c63.chunk.js.map",
     "runtime-main.js": "/MTPSHacks/static/js/runtime-main.3f247e05.js",
     "runtime-main.js.map": "/MTPSHacks/static/js/runtime-main.3f247e05.js.map",
     "static/js/2.2faa3625.chunk.js": "/MTPSHacks/static/js/2.2faa3625.chunk.js",
     "static/js/2.2faa3625.chunk.js.map": "/MTPSHacks/static/js/2.2faa3625.chunk.js.map",
     "index.html": "/MTPSHacks/index.html",
-    "precache-manifest.c83c9fb58317db8ecd3fb14d8b69106b.js": "/MTPSHacks/precache-manifest.c83c9fb58317db8ecd3fb14d8b69106b.js",
+    "precache-manifest.e4f4b981d9437757d69a15dfef0f72c2.js": "/MTPSHacks/precache-manifest.e4f4b981d9437757d69a15dfef0f72c2.js",
     "service-worker.js": "/MTPSHacks/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/MTPSHacks/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.2faa3625.chunk.js.LICENSE.txt": "/MTPSHacks/static/js/2.2faa3625.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.3f247e05.js",
     "static/js/2.2faa3625.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.77f73824.chunk.js"
+    "static/js/main.18236c63.chunk.js"
   ]
 }
