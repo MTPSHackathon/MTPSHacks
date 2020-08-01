@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.e0d58783.chunk.js",
+    "main.js.map": "/static/js/main.e0d58783.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9fb5ea31.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9fb5ea31.js.map",
+    "static/js/2.dc9ca55a.chunk.js": "/static/js/2.dc9ca55a.chunk.js",
+    "static/js/2.dc9ca55a.chunk.js.map": "/static/js/2.dc9ca55a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e1c982ea7e5fcb77a6fd29dff5715d95.js": "/precache-manifest.e1c982ea7e5fcb77a6fd29dff5715d95.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dc9ca55a.chunk.js.LICENSE.txt": "/static/js/2.dc9ca55a.chunk.js.LICENSE.txt",
+    "static/media/MTPSLogo.png": "/static/media/MTPSLogo.d88a6bfe.png",
+    "static/media/adp.png": "/static/media/adp.b2fdb6b1.png",
+    "static/media/igniteSTEM.png": "/static/media/igniteSTEM.f53662b7.png",
+    "static/media/janj.png": "/static/media/janj.372cbac1.png",
+    "static/media/jj.png": "/static/media/jj.45046e73.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/thinkKindness.png": "/static/media/thinkKindness.5e18813c.png",
+    "static/media/verizon.png": "/static/media/verizon.24b0e818.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb5ea31.js",
+    "static/js/2.dc9ca55a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e0d58783.chunk.js"
+  ]
+}
