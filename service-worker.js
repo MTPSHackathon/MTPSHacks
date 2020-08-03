@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MTPSHacks/precache-manifest.fe931f35e724d5c9fb6f641104d50414.js"
+  "/MTPSHacks/precache-manifest.bea0c2162be2251f9b588a9ec6e8b0e4.js"
 );
 
 self.addEventListener('message', (event) => {
