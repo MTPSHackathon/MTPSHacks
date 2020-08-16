@@ -86,7 +86,7 @@ function About() {
               take place virtually so students could engage in a creative,
               collaborative project with their peers under the guidance of
               teachers, high school student mentors, and industry professionals.
-              Under Morgan Gross’ leadership, all stakeholders came together to
+              Together, all stakeholders came together to
               revise the program to foster creativity and innovation at a time
               when students needed these unique learning experiences the most.
             </Typography>
